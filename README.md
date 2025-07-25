@@ -84,7 +84,6 @@ Conduct end-to-end analysis of Uber ride fare data to:
 ## 📌 Screenshots
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 091033" src="https://github.com/user-attachments/assets/9c3504bf-4d7b-4657-98af-ff8947ebd53f" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-23 091701" src="https://github.com/user-attachments/assets/492d2383-a261-42ce-a0e8-066a0dd1eee4" />
 <img width="1910" height="1007" alt="Screenshot 2025-07-23 091820" src="https://github.com/user-attachments/assets/d877152d-2c82-4201-9275-8ddbb874d504" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 091902" src="https://github.com/user-attachments/assets/3b5e2c8b-20e8-4aae-ad04-f9cdccf45c78" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 092222" src="https://github.com/user-attachments/assets/dc283fec-071c-480e-a63f-a5adff05cc25" />
