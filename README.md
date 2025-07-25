@@ -1,4 +1,5 @@
 🚖 Uber Fare Analysis Project
+
  
 🎓 Student: *Mugisha Leopold*  
 🏫 Institution: AUCA  
@@ -9,10 +10,10 @@
 🎯 Project Objective
 
 Conduct end-to-end analysis of Uber ride fare data to:
-- Explore ride and fare trends across time intervals  
-- Clean, transform, and visualize the dataset  
-- Build an **interactive Power BI dashboard**  
-- Generate meaningful **business insights**
+ Explore ride and fare trends across time intervals  
+ Clean, transform, and visualize the dataset  
+ Build an interactive Power BI dashboard  
+ Generate meaningful business insights
 
 🧹 Step 1: Data Cleaning
 
