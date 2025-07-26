@@ -27,10 +27,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
 
 ## 🛠️ Step 2: Feature Engineering
 
-🔄 Extracted from `pickup_datetime`:
- 🕐 `hour`
- 📅 `day`, `month`
- 📆 `day_of_week`
+🔄 Extracted from `pickup_datetime`: 🕐 `hour` 📅 `day`, `month` 📆 `day_of_week`
 
 ⚡ Added custom column:
  🟡 `is_peak` → `"Peak"` or `"Off-Peak"` hours
@@ -42,10 +39,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
 📌 Key Dashboards Created:
 
 - ⏰ Fare Patterns by Hour → Line + Bar Charts  
-- 🧭 Ride Counts by:
-  - Hour
-  - Day
-  - Month
+- 🧭 Ride Counts by:  Hour , Day , Month
 - 📅 Seasonal Trends using `day_of_week`  
 - 🔄 Peak vs Off-Peak rides (Pie + Area chart)  
 - 🗺️ (Optional): Spatial Distribution using Maps
@@ -56,9 +50,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
 
 🔍 Step 6: Key Insights
 
-📊 Peak Ride Hours:  
-- 🕗 8 AM  
-- 🕕 6 PM  
+📊 Peak Ride Hours:   8 AM  - 6 PM  
 
 📅 Most Active Days: 
 - Weekdays > Weekends
