@@ -66,7 +66,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
 | `uber.csv` | Original dataset |
 | `uber_cleaned.csv` | After cleaning |
 | `uber_enhanced.csv` | With new time columns |
-| `DataFrame.py` | Python EDA script |
+| `DataFrame.py` | Python EDA script use Vs code |
 | `Big Data power BI visuals.pbix` | Power BI dashboard |
 | `README.md` | This project report |
 | `screenshots` | Power BI visuals |
