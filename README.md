@@ -1,7 +1,7 @@
 🚖 Uber Fare Analysis Project
 
  
-🎓 Student: *Mugisha Leopold* 
+🎓 Student and ID: *Mugisha Leopold - 26636* 
 
 📂 Tools Used: Python, Power BI, Pandas  
 📊 Dataset: [Uber Fares Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
