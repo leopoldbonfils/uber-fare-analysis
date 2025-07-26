@@ -57,7 +57,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
 
 🧾 Fare Trends:  
  Fares peak during rush hours
- Off-peak rides dominate (~65%)
+ Off-peak rides dominate (~67%)
 
 📤 Deliverables
 
