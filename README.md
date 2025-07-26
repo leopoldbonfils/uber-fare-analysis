@@ -77,7 +77,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
 | `DataFrame.py` | Python EDA script |
 | `uber_analysis.pbix` | Power BI dashboard |
 | `README.md` | This project report |
-| `/screenshots` | Power BI visuals |
+| `screenshots` | Power BI visuals |
 
 
 ## 📌 Screenshots
