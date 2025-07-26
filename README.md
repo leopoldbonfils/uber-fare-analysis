@@ -19,8 +19,8 @@ Conduct end-to-end analysis of Uber ride fare data to:
 ✔️ Loaded `uber.csv` using Python  
 ✔️ Removed 1 row with null coordinates  
 ✔️ Removed entries with:
-❌ Negative fares
-❌ Passenger count ≤ 0 or > 6
+    Negative fares
+    Passenger count ≤ 0 or > 6
 
 ✅ Final dataset size: `199,269 rows`
 
