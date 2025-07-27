@@ -34,7 +34,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
 
 📤 Saved as: `uber_enhanced.csv`
 
-📈 Step 3–5: Visual Analytics (Power BI)
+## 📈 Step 3–5: Visual Analytics (Power BI)
 
 📌 Key Dashboards Created:
 
