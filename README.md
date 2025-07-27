@@ -14,7 +14,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
  Build an interactive Power BI dashboard  
  Generate meaningful business insights
 
- ##🧹 Step 1: Data Cleaning
+ ## 🧹 Step 1: Data Cleaning
 
 ✔️ Loaded `uber.csv` using Python  
 ✔️ Removed 1 row with null coordinates  
