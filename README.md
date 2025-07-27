@@ -1,4 +1,4 @@
-🚖 Uber Fare Analysis Project
+## 🚖 Uber Fare Analysis Project
 
  
 🎓 Student and ID: *Mugisha Leopold - 26636* 
