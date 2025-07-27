@@ -48,7 +48,7 @@ Conduct end-to-end analysis of Uber ride fare data to:
  ✅ Slicers, filters, and tooltips enabled
  ✅ Drill-down from month → day → hour
 
-🔍 Step 6: Key Insights
+## 🔍 Step 6: Key Insights
 
 📊 Peak Ride Hours:   8 AM  - 6 PM  
 
